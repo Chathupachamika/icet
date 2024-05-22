@@ -1,0 +1,58 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Lilita+One&display=swap');
+
+/*
+
+
+body{
+   background-image: url("/images/background1.jpg");
+back
+} */
+       
+   /*     p{
+             font-family: "Caveat", cursive;
+            font-size: medium;
+            align-self: baseline;
+            text-decoration: color(xyx red green rgb(29, 29, 129));
+        }
+
+#mahiiId{
+    
+    font-family: "Lilita One", sans-serif;
+  
+    font-display: inherit;
+    text-decoration: underline;
+    margin: 50px;
+    padding-top: 50px;
+    paddinng-left: 20px;
+    padding: bottom 10px;
+}
+
+.mahii_class{
+   
+    font-style: oblique ;
+    align-items: center;
+    font-display: inherit;
+    text-decoration: underline;
+    border: 20px black;
+}*/
+
+.box02{
+    width:"20px";
+    height: "50px";
+background-color:blue ;
+position: absolute;
+text-align: center;
+
+}
+.box02{
+    
+    width:"20px";
+    height: "50px";
+background-color:blue ;
+position: absolute;
+text-align: center;
+
+}
